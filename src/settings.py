@@ -1,12 +1,12 @@
 from pygame.math import Vector2
 
-SCREEN_WIDTH = 1280
-SCREEN_HEIGHT = 720
+SCREEN_WIDTH = 1290
+SCREEN_HEIGHT = 700
 TILE_SIZE = 64
 
 OVERLAY_POSITIONS = {
-    'tool' : (40, SCREEN_HEIGHT - 15),
-    'seed' : (40, SCREEN_HEIGHT - 5)
+    'tool' : (40, SCREEN_HEIGHT - 35),
+    'seed' : (45, SCREEN_HEIGHT - 5)
 }
 
 PLAYER_TOOL_OFSET = {
